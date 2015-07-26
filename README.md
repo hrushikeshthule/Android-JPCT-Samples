@@ -1,5 +1,7 @@
-Android-JPCT-Samples
-====================
+Android JPCT Samples For Android Studio
+=======================================
+
+This sample was taken from Carlos Repository, I changed it for the Android Studio.
 
 Android JPCT Sample
 
